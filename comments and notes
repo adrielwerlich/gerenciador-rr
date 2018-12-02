@@ -1,0 +1,8 @@
+d:\nprojetos\projeto-engenharia-civil\gerenciador-rr>php artisan passport:install
+Encryption keys generated successfully.
+Personal access client created successfully.
+Client ID: 1
+Client Secret: MF4q8DWQJv0ypbq6lhyLJBFN5rxHP8hMRC2S9sqj
+Password grant client created successfully.
+Client ID: 2
+Client Secret: W79lltErOoEg7h1Pvj2eEyS4gk68ix957WtbqKWx
